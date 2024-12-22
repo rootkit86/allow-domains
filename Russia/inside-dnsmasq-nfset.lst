@@ -383,7 +383,6 @@ nftset=/nl.youtube.com/4#inet#fw4#vpn_domains
 nftset=/accounts.youtube.com/4#inet#fw4#vpn_domains
 nftset=/facebook.youtube.com/4#inet#fw4#vpn_domains	
 nftset=/admin.youtube.com/4#inet#fw4#vpn_domains
-nftset=/ads.youtube.com/4#inet#fw4#vpn_domains
 nftset=/cms.youtube.com/4#inet#fw4#vpn_domains
 nftset=/p.youtube.com/4#inet#fw4#vpn_domains
 nftset=/rtmp.youtube.com/4#inet#fw4#vpn_domains
