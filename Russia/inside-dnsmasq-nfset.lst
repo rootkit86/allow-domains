@@ -209,6 +209,7 @@ nftset=/app.nvidia.com/4#inet#fw4#vpn_domains
 nftset=/accounts.nvgs.nvidia.com/4#inet#fw4#vpn_domains
 nftset=/activation.gfe.nvidia.com/4#inet#fw4#vpn_domains
 nftset=/api.gfe.nvidia.com/4#inet#fw4#vpn_domains
+nftset=/events.gfe.nvidia.com/4#inet#fw4#vpn_domains
 nftset=/services.gfe.nvidia.com/4#inet#fw4#vpn_domains
 nftset=/download.gfe.nvidia.com/4#inet#fw4#vpn_domains
 nftset=/gfe.nvidia.com/4#inet#fw4#vpn_domains
