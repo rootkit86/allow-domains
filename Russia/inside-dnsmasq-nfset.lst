@@ -229,6 +229,7 @@ nftset=/meet.nvidia.com/4#inet#fw4#vpn_domains
 nftset=/webstore.nvidia.com/4#inet#fw4#vpn_domains	
 nftset=/monitor.nvidia.com/4#inet#fw4#vpn_domains	
 nftset=/download.nvidia.com/4#inet#fw4#vpn_domains	
+nftset=/us.download.nvidia.com/4#inet#fw4#vpn_domains
 nftset=/blog.nvidia.com/4#inet#fw4#vpn_domains	
 nftset=/blogs.nvidia.com/4#inet#fw4#vpn_domains	
 nftset=/broadcast.nvidia.com/4#inet#fw4#vpn_domains	
