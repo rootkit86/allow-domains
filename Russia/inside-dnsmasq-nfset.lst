@@ -502,3 +502,4 @@ nftset=/far-cry.ubisoft.com/4#inet#fw4#vpn_domain
 nftset=/ubisoft-orbit-savegames.s3.amazonaws.com/4#inet#fw4#vpn_domain
 nftset=/onlineconfig.farcrygame.com/4#inet#fw4#vpn_domain
 nftset=/farcrygame.com/4#inet#fw4#vpn_domain
+nftset=/connect.ubisoft.com/4#inet#fw4#vpn_domain
