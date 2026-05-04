@@ -482,3 +482,4 @@ nftset=/onlineconfig.farcrygame.com/4#inet#fw4#vpn_domain
 nftset=/farcrygame.com/4#inet#fw4#vpn_domain
 nftset=/connect.ubisoft.com/4#inet#fw4#vpn_domain
 nftset=/reddit.com/4#inet#fw4#vpn_domain
+nfset=/community-scripts.org/4#inet#fw4#vpn_domain
